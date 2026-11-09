@@ -31,3 +31,4 @@ The fields below the box fill in as you paste or type. Each label shows the fiel
 npm run build     # outputs to dist/
 npm run preview   # serves the built files locally
 ```
+Claude was used to make sure there was nothing company related in this repo and to write the readme other than this part that I added.
