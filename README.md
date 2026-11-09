@@ -9,8 +9,8 @@ It handles record types 1, 2, 3 and 5. Lines with any other record type, such as
 Requires [Node.js](https://nodejs.org/) 20.19 or newer.
 
 ```sh
-git clone <this-repo-url> parsecaps
-cd parsecaps
+git clone https://github.com/uclnj/caps-parser.git
+cd caps-parser
 npm install
 npm run dev
 ```
